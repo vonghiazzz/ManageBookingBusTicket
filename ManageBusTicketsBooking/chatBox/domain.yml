@@ -76,44 +76,44 @@
     # utter_greet_with_name:
     #   - text: "Hey {cust_sex} {cust_name}! How are you?"
     utter_company:
-      - text: "Công ty có tên MART BUS. Nó là MỘT CHUỖI XE BUÝT DU LỊCH"
+      - text: "The company is called SMART BUS. It is a TOURIST BUS CHAIN"
 
     utter_hour:
-      - text: "Giờ hoạt động của chúng tôi là 24/24"
+      - text: "Our operating hours are 24/7"
 
     utter_address:
-      - text: "Địa chỉ là NO. 160, 30/4 STREET, AN PHU WARD, NINH KIEU DISTRICT, CAN THO CITY, VIETNAM. Bạn có thể đến theo địa chỉ này hoặc liên hệ với chúng tôi qua số điện thoại 00001234568."
+      - text: "Address is NO. 160, 30/4 STREET, AN PHU WARD, NINH KIEU DISTRICT, CAN THO CITY, VIETNAM. You can come to this address or contact us by phone number 00001234568."
     utter_feedback:
-      - text: "Bạn hãy cung cấp thông tin để bên công ty sửa đổi ạ!"
+      - text: "Please provide information so the company can make changes!"
 
     
 
     utter_thank_for_bad_feedback:
-      - text: "Cảm ơn bạn đã cho chúng tôi biết lý do. Chúng tôi sẽ cố gắng cải thiện dịch vụ của mình."
+      - text: "Thank you for telling us why. We will try to improve our service."
     
     utter_thank_for_good_feedback:
-      - text: "Cảm ơn bạn đã nhận xét tốt về dịch vụ của chúng tôi."
+      - text: "Thank you for your good comments about our service."
 
     utter_bad_feedback:
-      - text: "Bạn hãy cung cấp thông tin cụ thể hơn!"
+      - text: "Please provide more specific information!"
     utter_thank:
-      - text: "Rất vui được phục vụ cho bạn!"
+      - text: "Pleased to serve!"
 
     utter_greet:
-      - text: "Chào bạn! Tôi có thể giúp gì cho bạn hôm nay?"
+      - text: "Greeting! How can I help you today?"
 
     utter_ask_why_not:
-      - text: "Bạn có thể cho chúng tôi biết lý do bạn không muốn đặt vé không?"
+      - text: "Can you tell us why you don't want to book tickets?"
 
     utter_cheer_up:
       - text: "Here is something to cheer you up: <a href='https://www.facebook.com/your-image-link' target='_blank'>Click here to view facebook</a>"
         # image: "https://link-to-your-facebook-image.jpg"
 
     utter_note: 
-      - text: "Bạn chọn booking của trip bạn muốn đi và điền các thông tin yêu cầu sau đó nhấn Confirm"
+      - text: "You choose the booking of the trip you want to go and fill in the required information then click Confirm"
     
     utter_note_detail: 
-      - text: "Bạn chọn điền các thông tin của trip vào ô search ở trang homepage sau đó nhấn Find trips"
+      - text: "You choose to fill in the trip information in the search box on the homepage then click Find trips"
    
     # utter_link_ticket: 
     #   - text: "<a href='https://www.facebook.com/your-image-link' target='_blank'>Click here to view ticket</a>"
@@ -125,17 +125,17 @@
       - text: "Great, carry on!"
 
     utter_goodbye:
-      - text: "Tạm biệt! Hẹn gặp lại bạn."
+      - text: "Goodbye! See you soon."
 
     utter_ask_departure:
-      - text: "Bạn muốn đi từ đâu?"
+      - text: "Where do you want to go from?"
 
 
     utter_ask_destination:
-      - text: "Bạn muốn đến đâu?"
+      - text: "Where do you want to go?"
 
     utter_ask_ticket_type:
-      - text: "Bạn cần vé loại nào? (ví dụ: giường, ghế)"
+      - text: "What kind of ticket do you need? (e.g. bed, chair)"
 
     # utter_ticket_info:
     #   - text: "Bạn muốn đặt vé từ {departure} đến {destination} vào ngày {date} cho loại vé {ticket_type}, đúng không?"
